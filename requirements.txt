@@ -1,0 +1,9 @@
+requests
+beautifulsoup4
+lxml
+Wikipedia-API
+pandas
+googletrans
+nltk
+scikit-learn
+yellowbrick
